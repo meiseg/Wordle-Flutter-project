@@ -15,6 +15,13 @@ Spanish Word Database : A custom database of 6-letter Spanish words generated an
 Text-to-Speech : Pronunciation of words to improve pronunciation skills.
 Intuitive UI/UX : Smooth navigation across multiple screens with a clean and modern design.
 
+## Demo Video
+Here’s a quick walkthrough of the app in action:
+
+[![Watch the Demo](https://img.youtube.com/vi/Zcgo4rIfAew/maxresdefault.jpg)](https://youtu.be/Zcgo4rIfAew)
+
+*(Click the thumbnail to watch the demo video.)*
+
 # Features
 ## 1. User Authentication
 Users can create accounts or log in securely using email and password.
